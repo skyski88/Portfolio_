@@ -1,0 +1,45 @@
+.card-header {
+  background-color: white;
+}
+
+.card-body {
+  color: white;
+  background-color: black
+}
+
+h4 {
+  text-align: center;
+  color: white
+ 
+}
+
+body {
+  color: white;
+  font-weight: bolder;
+  background-image: url("https://1001freedownloads.s3.amazonaws.com/vector/thumb/315186/03d3283bb20099a081d3ec4231878a5a-creative-geometric-lines-tiled-background.jpg");
+  
+  }
+
+h5 {
+  color: black;
+}
+
+h6 {
+  color: white;
+}
+
+footer {
+  text-align: right;
+  padding-right: 70px;
+  font-weight: bolder;
+  background-color: black
+}
+
+p {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.active {
+  background-color: red
+}
